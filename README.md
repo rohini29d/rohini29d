@@ -1,31 +1,66 @@
 # Hi there, I'm Rohini 👋
 
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science Student | Open to Internships</h3>
 
 ![Field](https://img.shields.io/badge/Field-Data%20Science-purple)
-![CGPA](https://img.shields.io/badge/CGPA-8.0-green)
-![Interest](https://img.shields.io/badge/Interest-Machine%20Learning-blueviolet)
-![Open](https://img.shields.io/badge/Open%20To-Internships-brightgreen)
+![SQL](https://img.shields.io/badge/Skill-Advanced%20SQL-blue)
+![PowerBI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Backend](https://img.shields.io/badge/Backend-FastAPI-green)
+![Open](https://img.shields.io/badge/Open%20To-Data%20Roles-brightgreen)
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech 3rd Year Data Science Student
-- 💻 Skilled in Python, Java & Web Development
-- 📊 Interested in AI, ML & Analytics
-- 🧠 Solved DSA problems on LeetCode
-- 🌟 Future Data Scientist in progress
+🎓 B.Tech 3rd Year Student specializing in **Data Science**
+
+📊 Passionate about transforming raw data into meaningful business insights  
+
+📈 Strong knowledge in **SQL, Data Cleaning, and Dashboard Development**
+
+🛠 Experienced in building **data analysis projects and REST APIs**
+
+💡 Interested in Data Analytics, Business Intelligence, and Backend Development
+
+🎯 Actively seeking **Data Analyst / Associate Software Engineer roles**
 
 ---
 
 ## 🛠 Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+### 📊 Data Analysis & Visualization
+- Advanced SQL (Joins, Subqueries, Window Functions)
+- Excel (Pivot Tables, Lookup Functions, Data Cleaning)
+- Power BI (Interactive Dashboards & Reports)
+- Pandas & NumPy
+- Matplotlib / Seaborn
+
+### 🧠 Data Science & Machine Learning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Regression & Classification Models
+- Model Evaluation Techniques
+
+### 💻 Backend & Development
+- FastAPI (REST API Development)
+- MySQL / PostgreSQL
+- API Integration & JSON Handling
+- Git & GitHub (Version Control)
+
+### ☁️ Tools & Platforms
+- Jupyter Notebook
+- VS Code
+- Postman
+- Basic AWS (Deployment)
+
+---
+
+## 📂 Projects
+
+- 📊 Sales Data Analysis Dashboard (Power BI)
+- 🎓 Student Performance Prediction Model
+- 📝 FastAPI Quiz & Registration Backend
+- 📈 Data Cleaning & EDA on Real-world Datasets
 
 ---
 
@@ -35,4 +70,13 @@
 
 ---
 
-⭐️ From Rohini
+## 📫 Connect With Me
+
+- LinkedIn: (www.linkedin.com/in/
+rohini-dundigala-6bb857327
+)
+- Email: (rohinidundigala@gmial.com)
+
+---
+
+⭐ From Rohini | Data Science Student
