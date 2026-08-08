@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech 3rd Year Student specializing in **Data Science**
+🎓 B.Tech 4th Year Student specializing in **Data Science**
 
 📊 Passionate about transforming raw data into meaningful business insights  
 
